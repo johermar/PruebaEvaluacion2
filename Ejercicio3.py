@@ -12,3 +12,4 @@ resultado = magia_numerica(lista_numeros)
 print(resultado)
 # Verificación
 print(resultado[0] == sum(resultado[1:]))
+
